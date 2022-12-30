@@ -25,6 +25,7 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Nest supports two methods for integrating with the MongoDB database. You can either use the built-in TypeORM module , or use Mongoose, the most popular MongoDB object modeling tool.  mongoose is a well known and stable framework to deal with MongoDB. This  example includes nestjs mongoose with MongoDB for direct persistence as well as one to many relationship.
 
 ## Installation
 
@@ -71,3 +72,4 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
